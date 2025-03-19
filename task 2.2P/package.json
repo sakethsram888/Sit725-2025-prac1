@@ -1,0 +1,25 @@
+{
+  "name": "task-2.2p",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sakethsram888/Sit725-2025-prac1#readme",
+  "bugs": {
+    "url": "https://github.com/sakethsram888/Sit725-2025-prac1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakethsram888/Sit725-2025-prac1.git"
+  },
+  "license": "MIT",
+  "author": "sakethsram888",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": []
+}
