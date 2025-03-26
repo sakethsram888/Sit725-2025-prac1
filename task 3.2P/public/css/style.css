@@ -1,0 +1,31 @@
+.navbar-size {
+    width: 100%;
+    margin: 0 auto;
+
+}
+.user-image-size {
+    height: 56px;
+    margin: 4px 0;
+}
+.main-body {
+    
+    height: calc(100vh - 64px);
+}
+.materialboxed-image {
+    margin: 0 auto;
+    height: 400px;
+}
+.click-me-button {
+    background-color: rgb(184, 68, 14);
+    margin-top: 50px;
+}
+.nav-wrapper{
+    background-color: rgb(248, 244, 248);
+}
+.main-body{
+    background-image: url("https://wallpapercat.com/w/full/c/0/4/738962-3840x2160-desktop-4k-highway-background-photo.jpg");
+  }
+.linked{
+    color: #000;
+    
+}
