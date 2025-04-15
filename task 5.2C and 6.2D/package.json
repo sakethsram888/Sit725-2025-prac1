@@ -1,0 +1,29 @@
+{
+  "name": "task-3.2p",
+  "version": "1.0.0",
+  "description": "task 3.2 P",
+  "homepage": "https://github.com/sakethsram888/Sit725-2025-prac1#readme",
+  "bugs": {
+    "url": "https://github.com/sakethsram888/Sit725-2025-prac1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakethsram888/Sit725-2025-prac1.git"
+  },
+  "license": "MIT",
+  "author": "sakethsram888",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha test/*.test.js"
+  },
+  "dependencies": {
+    "chai": "^5.2.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mocha": "^11.1.0",
+    "mongoose": "^8.13.1",
+    "request": "^2.88.2"
+  }
+}
